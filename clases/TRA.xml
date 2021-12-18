@@ -1,0 +1,7 @@
+<loginTicketRequest><header>
+    <uniqueId>2105272105</uniqueId>
+    <generationTime>2021-05-27T21:11:31</generationTime>
+    <expirationTime>2021-05-27T21:14:31</expirationTime>
+</header>
+<service>wgesstockdepositosfiscales</service>
+</loginTicketRequest>

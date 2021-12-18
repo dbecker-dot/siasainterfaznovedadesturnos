@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaa, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>SERIALNUMBER=CUIT 30614498842, CN=certsiasa</destination>
+        <uniqueId>950216142</uniqueId>
+        <generationTime>2021-05-27T21:17:36.799-03:00</generationTime>
+        <expirationTime>2021-05-28T09:17:36.799-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhLCBPPUFGSVAsIEM9QVIsIFNFUklBTE5VTUJFUj1DVUlUIDMzNjkzNDUwMjM5IiB1bmlxdWVfaWQ9IjYxNjQxMTE0MCIgZ2VuX3RpbWU9IjE2MjIxNjA5OTYiIGV4cF90aW1lPSIxNjIyMjA0MjU2Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndnZXNzdG9ja2RlcG9zaXRvc2Zpc2NhbGVzIiB1aWQ9IlNFUklBTE5VTUJFUj1DVUlUIDMwNjE0NDk4ODQyLCBDTj1jZXJ0c2lhc2EiIGF1dGhtZXRob2Q9ImNtcyIgcmVnbWV0aG9kPSIyMiI+CiAgICAgICAgICAgIDxyZWxhdGlvbnM+CiAgICAgICAgICAgICAgICA8cmVsYXRpb24ga2V5PSIzMDYxNDQ5ODg0MiIgcmVsdHlwZT0iNCIvPgogICAgICAgICAgICA8L3JlbGF0aW9ucz4KICAgICAgICA8L2xvZ2luPgogICAgPC9vcGVyYXRpb24+Cjwvc3NvPgo=</token>
+        <sign>nUfnadLn7LvBbhXYppJ3hFx7e0uEwoAtCrJidvd7Fd1lmnmlBogvApyqttFtiY2D6aD/RTZPvNvu9Bf8PNqtFyGMRqFsiSE+CJuFnDyhzexwvYRydZ4Zz77Yz3C3+AdM+FZnrHyLDHLi4YUvLCnnN9lbvSb1OA/ss33QvsmbaOA=</sign>
+    </credentials>
+</loginTicketResponse>
